@@ -1,1 +1,1 @@
-# AngResponsive
+# AngularPracts
